@@ -1,6 +1,9 @@
 # golang
 
 This repository contains assignment solutions for Coursera's Programming with Google Go specialization courses:
+I'll recommend using this only after you've tried the assignments on your own ^_^
+I'm a beginner in golang and don't really use it at a lot of places.
+It's a fun language with a lot of utility and obviously we love OOP.
 
 - Getting started with Go
     - Module 1 Activity: hello
